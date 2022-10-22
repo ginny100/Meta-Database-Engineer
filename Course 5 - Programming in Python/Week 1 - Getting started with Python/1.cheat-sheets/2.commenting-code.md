@@ -1,0 +1,41 @@
+# Commenting code
+
+Adding comments to code not only helps you as a developer but also helps other members of your team. Comments are great for refreshing your memory of code you may have written months ago and you may have forgotten what it was intended to do. There are multiple reasons why you need to add comments to a code file. They can range from the following:
+
+- Explaining what the code is intended to do.
+
+- Let developers know that code is deprecated.
+
+- Add TODO comments for work to be completed at a later time.
+
+Below are examples of the different types of comments that can be used.
+
+## Single-line comments
+
+The use of a `#` symbol tells Python to ignore everything after this point until the end of the current line.
+
+```python
+# Don't try to Run Me, I'm a comment
+x = 10
+```
+
+## Multi-line comments
+
+Python does not really have a method of declaring multiline comments so a `#` symbol can be used at the beginning of every line of the comment.
+
+```python
+# The function below accepts two integers and
+# adds both numbers to return the value.
+def add_two_numbers(a, b):
+    return a + b
+```
+
+## Inline comments
+
+The `#` symbol tells Python to ignore everything after this point until the end of the current line, this allows the placement of comments within the code itself. Inline comments should be used to supply important information about the code they deal with.
+
+```python
+x = 1  # Resetting buffer size
+```
+
+Remember to always have a reason for a comment, they should supply information to the reader and not be a distracting nuisance

@@ -1,4 +1,7 @@
 # Meta Database Engineer Professional Certificate
+
+<img src="./meta-logo.png" width=150>
+
 - This repo contains all of my assignments from the Coursera Professional Certificate: [Meta Database Engineer Professional Certificate](https://www.coursera.org/professional-certificates/meta-database-engineer)
 
 ## Table of Content
