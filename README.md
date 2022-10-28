@@ -16,13 +16,13 @@
   * Week 2: [Command Line](https://github.com/ginny100/Meta-Database-Engineer/tree/master/Course%202%20-%20Version%20Control/Week%202%20-%20Command%20Line)
   * Week 3: [Working with Git](https://github.com/ginny100/Meta-Database-Engineer/tree/master/Course%202%20-%20Version%20Control/Week%203%20-%20Working%20with%20Git)
   * Week 4: [Graded Assessment](https://github.com/ginny100/Meta-Database-Engineer/tree/master/Course%202%20-%20Version%20Control/Week%204%20-%20Graded%20Assessment)
-- Course 3: [Database Structures and Management with MySQL](https://www.coursera.org/learn/database-structures-and-management-with-mysql?specialization=meta-database-engineer)(Release date: Sep 19th, 2022)
+- Course 3: [Database Structures and Management with MySQL](https://www.coursera.org/learn/database-structures-and-management-with-mysql?specialization=meta-database-engineer)
   * Week 1: 
   * Week 2: 
   * Week 3: 
   * Week 4: 
   * Week 5: 
-- Course 5: [Advanced MySQL Topics](https://www.coursera.org/learn/advanced-mysql-topics?specialization=meta-database-engineer)(Release date: Sep 19th, 2022)
+- Course 5: [Advanced MySQL Topics](https://www.coursera.org/learn/advanced-mysql-topics?specialization=meta-database-engineer) (Release date: Oct 31st, 2022)
   * Week 1: 
   * Week 2: 
   * Week 3: 
@@ -34,25 +34,25 @@
   * Week 3: [Programming paradigms](https://github.com/ginny100/Meta-Database-Engineer/tree/master/Course%205%20-%20Programming%20in%20Python/Week%203%20-%20Programming%20paradigms)
   * Week 4: [Modules, packages, libraries and tools](https://github.com/ginny100/Meta-Database-Engineer/tree/master/Course%205%20-%20Programming%20in%20Python/Week%204%20-%20Modules%2C%20packages%2C%20libraries%20and%20tools)
   * Week 5: [End-of-Course Graded Assessment](https://github.com/ginny100/Meta-Database-Engineer/tree/master/Course%205%20-%20Programming%20in%20Python/Week%205%20-%20End-of-Course%20Graded%20Assessment)
-- Course 6: [Database Clients](https://www.coursera.org/learn/database-clients?specialization=meta-database-engineer)(Release date: Dec 12nd, 2022)
+- Course 6: [Database Clients](https://www.coursera.org/learn/database-clients?specialization=meta-database-engineer) (Release date: Dec 23rd, 2022)
   * Week 1: 
   * Week 2: 
   * Week 3: 
   * Week 4: 
   * Week 5: 
-- Course 7: [Advanced Data Modeling](https://www.coursera.org/learn/advanced-data-modeling?specialization=meta-database-engineer)(Release date: Jan 2nd, 2023)
+- Course 7: [Advanced Data Modeling](https://www.coursera.org/learn/advanced-data-modeling?specialization=meta-database-engineer) (Release date: Jan 30th, 2023)
   * Week 1: 
   * Week 2: 
   * Week 3: 
   * Week 4: 
   * Week 5: 
-- Course 8: [Database Engineer Capstone](https://www.coursera.org/learn/database-engineer-capstone?specialization=meta-database-engineer)(Release date: Jan 2nd, 2023)
+- Course 8: [Database Engineer Capstone](https://www.coursera.org/learn/database-engineer-capstone?specialization=meta-database-engineer) (Release date: Jan 30th, 2023)
   * Week 1: 
   * Week 2: 
   * Week 3: 
   * Week 4: 
   * Week 5: 
-- Course 9: [Coding Interview Preparation](https://www.coursera.org/learn/coding-interview-preparation?specialization=meta-back-end-developer)(Release date: Dec 12nd, 2022)
+- Course 9: [Coding Interview Preparation](https://www.coursera.org/learn/coding-interview-preparation?specialization=meta-back-end-developer) (Release date: Jan 30th, 2023)
   * Week 1: 
   * Week 2: 
   * Week 3: 
