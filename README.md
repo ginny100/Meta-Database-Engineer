@@ -5,6 +5,7 @@
 - This repo contains all of my assignments from the Coursera Professional Certificate: [Meta Database Engineer Professional Certificate](https://www.coursera.org/professional-certificates/meta-database-engineer)
 
 ## Table of Content
+
 - Course 1: [Introduction to Databases](https://www.coursera.org/learn/introduction-to-databases?specialization=meta-database-engineer)
   * Week 1: [Introduction to Databases](https://github.com/ginny100/Meta-Database-Engineer/tree/master/Course%201%20-%20Introduction%20to%20Databases/Week%201%20-%20Introduction%20to%20Databases)
   * Week 2: [Create, Read, Update and Delete (CRUD) Operations](https://github.com/ginny100/Meta-Database-Engineer/tree/master/Course%201%20-%20Introduction%20to%20Databases/Week%202%20-%20Create%2C%20Read%2C%20Update%20and%20Delete%20(CRUD)%20Operations)
@@ -58,3 +59,12 @@
   * Week 3: 
   * Week 4: 
   * Week 5:
+
+## Proof of Completion
+
+- Not Available
+
+## See also
+
+- My [Meta-Front-End-Developer](https://github.com/ginny100/Meta-Front-End-Developer) repository
+- My [Meta-Back-End-Developer](https://github.com/ginny100/Meta-Back-End-Developer) repository
